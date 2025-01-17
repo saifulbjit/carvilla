@@ -5,7 +5,7 @@ metadata:
   labels:
     app: carvilla
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: carvilla
