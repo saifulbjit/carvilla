@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: carvilla
-        image: badhan/carvilla:1.0.0
+        image: saifulbjit/carvilla:1.0.0
         ports:
         - containerPort: 80
 ---
