@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: carvilla
-        image: saifulbjit/carvilla:0.0.1
+        image: sirony514/carvilla:0.0.1
         ports:
         - containerPort: 80
 ---
